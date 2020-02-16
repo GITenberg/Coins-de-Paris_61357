@@ -1,5 +1,5 @@
 _repo: Coins-de-Paris_61357
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   contributor:
     agent_name: Sardou, Victorien
@@ -11,6 +11,9 @@ contributor:
     wikipedia:
     - http://fr.wikipedia.org/wiki/Victorien_Sardou
     - http://en.wikipedia.org/wiki/Victorien_Sardou
+covers:
+- cover_type: archival
+  image_path: 61357-h/images/cover.jpg
 creator:
   author:
     agent_name: Cain, Georges
@@ -19,6 +22,8 @@ creator:
     gutenberg_agent_id: '40542'
     url: http://www.gutenberg.org/2009/agents/40542
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61357#Coins-de-Paris
 gutenberg_bookshelf:
 - FR Villes
 - FR Nouveautés
